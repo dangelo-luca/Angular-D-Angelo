@@ -9,5 +9,5 @@ import { FourthComponent } from './fourth/fourth.component';
   styleUrl: './third.component.css'
 })
 export class ThirdComponent {
-   NumeroComponente = 'terzo';
+   NumeroComponente: string = 'terzo';
 }

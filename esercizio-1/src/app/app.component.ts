@@ -13,5 +13,5 @@ import { ThirdComponent } from './third/third.component';
 })
 export class AppComponent {
   title = 'esercizio-1';
-  NumeroComponente = "app";
+  NumeroComponente: string = "app";
 }

@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './fourth.component.css'
 })
 export class FourthComponent {
-  NumeroComponente = "quarto";
+  NumeroComponente: string = "quarto";
 }
